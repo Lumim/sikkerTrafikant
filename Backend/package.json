@@ -1,0 +1,12 @@
+{
+  "name": "sikkertrafikantbackend",
+  "version": "1.0.0",
+  "description": "The API and Dashboard backend for the new driving app for managing the school and training the students online about driving in Denmark",
+  "license": "MIT",
+  "author": "Lummim",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
